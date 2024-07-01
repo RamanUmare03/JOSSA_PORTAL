@@ -46,14 +46,6 @@ News and Notices: Important notices are displayed on the homepage. Click on each
 Contributing
 Contributions are welcome! Here's how you can contribute to the project:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature).
-Commit your changes (git commit -am 'Add some feature').
-Push to the branch (git push origin feature/your-feature).
-Create a new Pull Request.
-Credits
-Created by [NITYAM , YASH PAWAR , ROHIT NIGAM , RAMJAS SAHU]
-License
-This project is licensed under the MIT License.
+
 
 Notes:

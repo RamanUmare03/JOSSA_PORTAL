@@ -13,39 +13,4 @@ Responsive Design: Ensures compatibility across various devices.
 Installation
 Follow these steps to set up the project locally:
 
-Clone the Repository:
 
-bash
-Copy code
-git clone <git@github.com:Nityam2004/JOSSA_PROJECT.git>
-cd JoSAA-Registration-System
-Install Dependencies:
-
-Copy code
-pip install -r requirements.txt
-Database Setup:
-
-Ensure your database settings are correctly configured in settings.py.
-Apply migrations:
-Copy code
-python manage.py makemigrations
-python manage.py migrate
-Run the Development Server:
-
-Copy code
-Go in this folder and then run -- JOSSA_PROJECT\FRONTEND\login_page\registeration_system\registeration
-python manage.py runserver
-Access the Application:
-Open your web browser and go to http://127.0.0.1:8000/ to view the application.
-
-Usage
-User Registration: Navigate to the registration page (/signup) to create a new user account.
-User Login: Access the login page (/login) to authenticate and log into the system.
-Navigation: Use the navigation links in the header to explore different features such as Marks vs Rank, College Predictor, and more.
-News and Notices: Important notices are displayed on the homepage. Click on each notice button to view more details.
-Contributing
-Contributions are welcome! Here's how you can contribute to the project:
-
-
-
-Notes:
